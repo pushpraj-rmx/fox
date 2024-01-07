@@ -27,7 +27,7 @@
 
     <!-- END nav -->
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpeg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -70,7 +70,7 @@
       </div>
     </section>
 		
-		<section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
+		<!-- <section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
 			<div class="container">
 				<div class="row d-flex align-items-stretch no-gutters">
 					<div class="col-md-6 p-4 p-md-5 order-md-last bg-light">
@@ -100,7 +100,7 @@
 		</section>
 
 
-		<?php include 'includes/footer.php'?>
+		<?php include 'includes/footer.php'?> -->
 
 
   <script src="js/jquery.min.js"></script>

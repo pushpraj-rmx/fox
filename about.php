@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fox University - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Navel Marine</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -25,7 +25,7 @@
   <body>
 
     <?php include 'includes/header.php'?>  
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpeg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -44,10 +44,10 @@
 						<div class="img" style="background-image: url(images/about.jpg); border"></div>
 					</div>
 					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Fox University Stablished Since 1960</h2>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+          	<h2 class="mb-4">Navel Marine : a short description</h2>
+						<p>Welcome aboard Naval Marine, a distinguished institution in the realm of marine engineering. Here, we take pride in our mission – to deliver unparalleled education in marine engineering, ensuring that aspiring professionals can embark on their maritime journey without the burden of exorbitant costs.</p>
+						<p>In the expansive halls of Naval Marine, you'll find more than just a learning environment; you'll discover a community dedicated to fostering academic excellence. Our seasoned faculty, with their wealth of experience, is committed to guiding you towards success in the dynamic world of marine engineering.</p>
+						<p>Our state-of-the-art facilities and cutting-edge laboratories create an immersive learning experience, allowing you to delve into the intricacies of marine systems and operations. What sets Naval Marine apart is our unwavering commitment to affordability. We firmly believe that high-quality education should be accessible to all, and we've designed our programs to reflect this ethos.</p>
 					</div>
 				</div>
 			</div>
@@ -60,16 +60,16 @@
     			<div class="col-md-6 align-items-stretch d-flex">
     				<div class="img img-video d-flex align-items-center" style="background-image: url(images/about-2.jpg);">
     					<div class="video justify-content-center">
-								<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+								<a href="images/intro.mp4" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 									<span class="ion-ios-play"></span>
 		  					</a>
 							</div>
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Fox University</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <h2 class="mb-4">Naval Marine</h2>
+            <p>At Navel Maritime, we pride ourselves on providing world-class training and education to individuals aspiring to embark on a rewarding career in the Merchant Navy. Our state-of-the-art facilities, experienced faculty, and a commitment to fostering a culture of innovation and safety set us apart as a leading institution in maritime education.</p>
+            <p>Aspiring mariners at our institute undergo a holistic learning experience that encompasses theoretical knowledge, practical skills, and real-world exposure.</p>
           </div>
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
@@ -79,7 +79,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="18">0</strong>
+		                <strong class="number" data-number="21">0</strong>
 		                <span>Certified Teachers</span>
 		              </div>
 		            </div>
@@ -88,7 +88,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="401">0</strong>
+		                <strong class="number" data-number="501">0</strong>
 		                <span>Students</span>
 		              </div>
 		            </div>
@@ -97,7 +97,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="30">0</strong>
+		                <strong class="number" data-number="51">0</strong>
 		                <span>Courses</span>
 		              </div>
 		            </div>
@@ -106,7 +106,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="50">0</strong>
+		                <strong class="number" data-number="11">0</strong>
 		                <span>Awards Won</span>
 		              </div>
 		            </div>
@@ -117,7 +117,7 @@
     	</div>
     </section>
 
-    <section class="ftco-section testimony-section">
+    <!-- <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
@@ -202,37 +202,37 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-
+     <br>
 		<section class="ftco-gallery">
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
-						<a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/course-1.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+						<a href="images/image1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/course-1.jpg);">
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+						<a href="images/image2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+						<a href="images/image3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+						<a href="images/image4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						
     					</div>
 						</a>
 					</div>
@@ -240,7 +240,7 @@
     	</div>
     </section>
 
-		<?php include 'includes/footer.php'?>
+		<!-- <?php include 'includes/footer.php'?> -->
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>

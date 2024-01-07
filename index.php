@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fox University - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Naval Marine</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -28,27 +28,27 @@
     <!-- END nav -->
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+      <div class="slider-item" style="background-image:url(images/bg1.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Education Needs Complete Solution</h1>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+            <h1 class="mb-4">A premier maritime training Institute in India</h1>
+            <p>Successful completion of a programme qualifies a student to appear for their respective Certificate of Competency Examination.</p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">apply</a></p>
           </div>
         </div>
         </div>
       </div>
 
-      <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+      <div class="slider-item" style="background-image:url(images/bg2.webp);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">University, College School Education</h1>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+            <h1 class="mb-4">Chart Your Maritime Future with US</h1>
+            <p>offering a comprehensive and cutting-edge curriculum designed to prepare aspiring seafarers.</p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">apply</a></p>
           </div>
         </div>
         </div>
@@ -60,53 +60,54 @@
 				<div class="row no-gutters">
           <div class="col-md-3 d-flex services align-self-stretch py-5 px-4 ftco-animate bg-primary">
             <div class="media block-6 d-block text-center">
-              <div class="icon d-flex justify-content-center align-items-center">
+              <div class=" d-flex justify-content-center align-items-center">
             		<span class="flaticon-teacher"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Certified Teachers</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Cutting-Edge Simulators</h3>
+                <p>Our institute boasts state-of-the-art maritime simulators that replicate real-world scenarios, providing students with hands-on experience in navigating various vessels.</p>
               </div>
             </div>      
           </div>
           <div class="col-md-3 d-flex services align-self-stretch py-5 px-4 ftco-animate bg-darken">
             <div class="media block-6 d-block text-center">
-              <div class="icon d-flex justify-content-center align-items-center">
+              <div class="d-flex justify-content-center align-items-center">
             		<span class="flaticon-reading"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Special Education</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Modern Training Vessels</h3>
+                <p>Explore and train on our fleet of modern training vessels equipped with the latest navigation and communication systems.</p>
               </div>
             </div>    
           </div>
           <div class="col-md-3 d-flex services align-self-stretch py-5 px-4 ftco-animate bg-primary">
             <div class="media block-6 d-block text-center">
-              <div class="icon d-flex justify-content-center align-items-center">
+              <div class=" d-flex justify-content-center align-items-center">
             		<span class="flaticon-books"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Book &amp; Library</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Comprehensive Laboratories</h3>
+                <p>well-equipped laboratories for navigation, engineering, and maritime sciences. These facilities enable students to conduct experiments, analyze data, and gain insights into the intricate workings of marine systems and technologies.</p>
               </div>
             </div>      
           </div>
           <div class="col-md-3 d-flex services align-self-stretch py-5 px-4 ftco-animate bg-darken">
             <div class="media block-6 d-block text-center">
-              <div class="icon d-flex justify-content-center align-items-center">
+              <div class=" d-flex justify-content-center align-items-center">
             		<span class="flaticon-diploma"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Sport Clubs</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Accommodation and Recreation</h3>
+                <p>To ensure a conducive learning environment, our institute provides comfortable accommodation facilities for students. Additionally, recreational spaces and amenities are available to promote a healthy work-life balance.</p>
               </div>
             </div>      
           </div>
         </div>
 			</div>
 		</section>
+		<br>
 		
-		<section class="ftco-section ftco-no-pt ftc-no-pb">
+		<!-- <section class="ftco-section ftco-no-pt ftc-no-pb">
 			<div class="container">
 				<div class="row d-flex">
 					<div class="col-md-5 order-md-last wrap-about wrap-about d-flex align-items-stretch">
@@ -174,7 +175,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		
 
 		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
@@ -183,16 +184,16 @@
     			<div class="col-md-6 align-items-stretch d-flex">
     				<div class="img img-video d-flex align-items-center" style="background-image: url(images/about-2.jpg);">
     					<div class="video justify-content-center">
-								<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+								<a href="images/intro.mp4" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 									<span class="ion-ios-play"></span>
 		  					</a>
 							</div>
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Fox University</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <h2 class="mb-4">Navel Maritime</h2>
+            <p>At Navel Maritime, we pride ourselves on providing world-class training and education to individuals aspiring to embark on a rewarding career in the Merchant Navy. Our state-of-the-art facilities, experienced faculty, and a commitment to fostering a culture of innovation and safety set us apart as a leading institution in maritime education.</p>
+            <p>Aspiring mariners at our institute undergo a holistic learning experience that encompasses theoretical knowledge, practical skills, and real-world exposure. </p>
           </div>
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
@@ -202,7 +203,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="18">0</strong>
+		                <strong class="number" data-number="21">0</strong>
 		                <span>Certified Teachers</span>
 		              </div>
 		            </div>
@@ -211,7 +212,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="401">0</strong>
+		                <strong class="number" data-number="501">0</strong>
 		                <span>Students</span>
 		              </div>
 		            </div>
@@ -220,7 +221,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="30">0</strong>
+		                <strong class="number" data-number="51">0</strong>
 		                <span>Courses</span>
 		              </div>
 		            </div>
@@ -229,7 +230,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="50">0</strong>
+		                <strong class="number" data-number="11">0</strong>
 		                <span>Awards Won</span>
 		              </div>
 		            </div>
@@ -246,59 +247,61 @@
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4"><span>Our</span> Courses</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+            <p>Welcome to the esteemed world of maritime education at Navel Maritime, a premier Merchant Navy Institute committed to shaping future maritime leaders.</p>
           </div>
         </div>	
 				<div class="row">
 					<div class="col-md-3 course ftco-animate">
-						<div class="img" style="background-image: url(images/course-1.jpg);"></div>
+						<div class="img" style="background-image: url(images/bg2.jpg);"></div>
 						<div class="text pt-4">
-							<p class="meta d-flex">
+							<!-- <p class="meta d-flex">
 								<span><i class="icon-user mr-2"></i>Mr. Khan</span>
 								<span><i class="icon-table mr-2"></i>10 seats</span>
 								<span><i class="icon-calendar mr-2"></i>4 Years</span>
-							</p>
-							<h3><a href="#">Electric Engineering</a></h3>
-							<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							</p> -->
+							<h3><a href="#">Diploma in nautical Science</a></h3>
+							<p>The Diploma in Nautical Science(DNS) programme has been specifically created by industry professionals to groom and create globally employable navigating officers. The first part consists of a 12-month pre-sea training course conducted on shore, followed by 18 months of structured shipboard training.</p>
 							<p><a href="#" class="btn btn-primary">Apply now</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 course ftco-animate">
-						<div class="img" style="background-image: url(images/course-2.jpg);"></div>
+						<div class="img" style="background-image: url(images/bg3.jpg);"></div>
 						<div class="text pt-4">
-							<p class="meta d-flex">
+							<!-- <p class="meta d-flex">
 								<span><i class="icon-user mr-2"></i>Mr. Khan</span>
 								<span><i class="icon-table mr-2"></i>10 seats</span>
 								<span><i class="icon-calendar mr-2"></i>4 Years</span>
-							</p>
-							<h3><a href="#">Electric Engineering</a></h3>
-							<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							</p> -->
+							<h3><a href="#">Graduate Marine Engineer</a></h3>
+							<p>The Graduate Marine Engineer (GME) programme is an 18-month course designed to transform candidates into highly skilled, globally employable professionals for the shipping and maritime industry.During the first 8 months of on-shore training, candidates will gain a thorough understanding of the nuances of the shipping industry and their role within it. Following this, they will undergo 4 months of training as a Trainee Marine Engineer on a ship</p>
 							<p><a href="#" class="btn btn-primary">Apply now</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 course ftco-animate">
 						<div class="img" style="background-image: url(images/course-3.jpg);"></div>
 						<div class="text pt-4">
-							<p class="meta d-flex">
+							<!-- <p class="meta d-flex">
 								<span><i class="icon-user mr-2"></i>Mr. Khan</span>
 								<span><i class="icon-table mr-2"></i>10 seats</span>
 								<span><i class="icon-calendar mr-2"></i>4 Years</span>
-							</p>
-							<h3><a href="#">Electric Engineering</a></h3>
-							<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							</p> -->
+							<h3><a href="#">Eletro Techinal officer</a></h3>
+							<p>Electro Technical Officers are entrusted with the crucial responsibility of maintaining and repairing all electrical and electronic equipment, installations, and machinery on a ship, including radio communications and electronic navigation aids
+
+                                 The Electro Technical Officer (ETO) programme is a 1-year course designed by industry leaders in accordance with global standards. It consists of a 4-month on-shore training course followed by 8 months of shipboard training.</p>
 							<p><a href="#" class="btn btn-primary">Apply now</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 course ftco-animate">
 						<div class="img" style="background-image: url(images/course-4.jpg);"></div>
 						<div class="text pt-4">
-							<p class="meta d-flex">
+							<!-- <p class="meta d-flex">
 								<span><i class="icon-user mr-2"></i>Mr. Khan</span>
 								<span><i class="icon-table mr-2"></i>10 seats</span>
 								<span><i class="icon-calendar mr-2"></i>4 Years</span>
-							</p>
-							<h3><a href="#">Electric Engineering</a></h3>
-							<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							</p> -->
+							<h3><a href="#">General Purpose Rating</a></h3>
+							<p>The General Purpose Rating (GPR) programme consists of a 6-month pre-sea training course followed by 9 months of structured shipboard training. After completing the training, students are eligible for employment with any shipping company globally.</p>
 							<p><a href="#" class="btn btn-primary">Apply now</a></p>
 						</div>
 					</div>
@@ -306,14 +309,14 @@
 			</div>
 		</section>
 
-		<section class="ftco-section bg-light">
+		<!-- <section class="ftco-section bg-light">
 			<div class="container-fluid px-4">
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4">Certified Teachers</h2>
             <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
           </div>
-        </div>	
+         </div>	
 				<div class="row">
 					<div class="col-md-6 col-lg-3 ftco-animate">
 						<div class="staff">
@@ -397,10 +400,10 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 
 
-    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
+    <!-- <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
     	<div class="overlay"></div>
     	<div class="container">
     		<div class="row justify-content-end">
@@ -452,16 +455,16 @@
     			</div>
         </div>
     	</div>
-    </section>
+    </section> -->
 
-		<section class="ftco-section bg-light">
+		<!-- <section class="ftco-section bg-light">
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4"><span>Recent</span> Blog</h2>
             <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
           </div>
-        </div>
+         </div>
 				<div class="row">
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
@@ -529,11 +532,11 @@
               </div>
             </div>
           </div>
-        </div>
+         </div>
 			</div>
-		</section>
+		</section> -->
 
-		<section class="ftco-section testimony-section">
+	<!-- <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
@@ -618,44 +621,44 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
 		<section class="ftco-gallery">
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
-						<a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/course-1.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+						<a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_1.jpg);">
+							<div class="mb-4 d-flex align-items-center justify-content-center">
+    						<!-- <span class="icon-instagram"></span> -->
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
 						<a href="images/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						<!-- <span class="icon-instagram"></span> -->
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
 						<a href="images/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						<!-- <span class="icon-instagram"></span> -->
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
 						<a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
-							<div class="icon mb-4 d-flex align-items-center justify-content-center">
-    						<span class="icon-instagram"></span>
+							<div class=" mb-4 d-flex align-items-center justify-content-center">
+    						<!-- <span class="icon-instagram"></span> -->
     					</div>
 						</a>
 					</div>
-        </div>
-    	</div>
-    </section>
+                 </div>
+    	      </div>
+         </section>
 
-	<?php include 'includes/footer.php'?>
+	<!-- <?php include 'includes/footer.php'?> -->
 
 
   <script src="js/jquery.min.js"></script>
