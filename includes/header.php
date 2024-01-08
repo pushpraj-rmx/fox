@@ -2,7 +2,7 @@
     	<div class="container">
     		<div class="row no-gutters d-flex align-items-center align-items-stretch">
     			<div class="col-md-4 d-flex align-items-center py-4">
-    				<a class="navbar-brand" href="index.php">Fox. <span>University</span></a>
+    				<a class="navbar-brand" href="index.php">Naval Marine<span></span></a>
     			</div>
 	    		<div class="col-lg-8 d-block">
 		    		<div class="row d-flex">
@@ -10,14 +10,14 @@
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
 					    	<div class="text">
 					    		<span>Email</span>
-						    	<span>youremail@email.com</span>
+						    	<span>apnaemaildalnahai.com</span>
 						    </div>
 					    </div>
 					    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
 						    <div class="text">
 						    	<span>Call</span>
-						    	<span>Call Us: + 1235 2355 98</span>
+						    	<span>Call Us:000000001</span>
 						    </div>
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
@@ -39,8 +39,8 @@
 	      </button>
 	      <form action="#" class="searchform order-lg-last">
           <div class="form-group d-flex">
-            <input type="text" class="form-control pl-3" placeholder="Search">
-            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
+            <!-- <input type="text" class="form-control pl-3" placeholder="Search"> -->
+            <!-- <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button> -->
           </div>
         </form>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
