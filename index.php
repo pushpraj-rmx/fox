@@ -35,7 +35,7 @@
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">A premier maritime training Institute in India</h1>
             <p>Successful completion of a programme qualifies a student to appear for their respective Certificate of Competency Examination.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">apply</a></p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Apply Now</a></p>
           </div>
         </div>
         </div>

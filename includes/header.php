@@ -48,7 +48,8 @@
 	        	<li class="nav-item"><a href="index.php" class="nav-link pl-0">Home</a></li>
 	        	<li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
 	        	<li class="nav-item"><a href="courses.php" class="nav-link">Courses</a></li>
-	          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+	        	<li class="nav-item"><a href="blog-single.php" class="nav-link">Our partners</a></li>
+	            <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
