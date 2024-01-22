@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Application Form</title>
+</head>
+<body>
+
+  <form>
+    <h2>Application Form</h2>
+
+    <!-- Step 1: Select Course -->
+    <label for="course">Step 1: Select Course*</label>
+    <select id="course" name="course">
+      <option value="dns">DNS</option>
+      <option value="gme">GME</option>
+      <option value="eto">ETO</option>
+      <option value="gpRating">GP Rating (Fitters/Pumpman)</option>
+    </select>
+
+    <!-- Step 2: Upload Photo -->
+    <label for="photo">Step 2: Upload Photo*</label>
+    <input type="file" id="photo" name="photo">
+
+    <!-- Step 3: Fill Application Form -->
+    <label>Step 3: Fill Application Form</label>
+
+    <!-- Personal Information -->
+    <label for="firstName">Name*</label>
+    <div>
+      <input type="text" id="firstName" name="firstName" placeholder="First Name">
+      <input type="text" id="middleName" name="middleName" placeholder="Middle Name">
+      <input type="text" id="lastName" name="lastName" placeholder="Last Name">
+    </div>
+
+    <label for="dob">Date of Birth*</label>
+    <input type="date" id="dob" name="dob">
+
+    <label for="age">Age*</label>
+    <input type="text" id="age" name="age" placeholder="Age">
+
+    <label for="mobile">Mobile*</label>
+    <input type="tel" id="mobile" name="mobile" placeholder="Mobile">
+
+    <label for="gender">Gender*</label>
+    <select id="gender" name="gender">
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+      <option value="other">Other</option>
+    </select>
+
+    <label for="email">Email Id*</label>
+    <input type="email" id="email" name="email" placeholder="Email Id">
+
+    <label for="otp">OTP*</label>
+    <input type="text" id="otp" name="otp" placeholder="Enter OTP">
+
+    <!-- Blood Group, Marital Status, Nationality, Aadhar Card, PAN Card -->
+    <label for="bloodGroup">Blood Group*</label>
+    <select id="bloodGroup" name="bloodGroup">
+      <option value="A+">A+</option>
+      <option value="B+">B+</option>
+      <option value="O+">O+</option>
+      <option value="AB+">AB+</option>
+      <option value="other">Other</option>
+    </select>
+
+    <label for="maritalStatus">Marital Status*</label>
+    <select id="maritalStatus" name="maritalStatus">
+      <option value="single">Single</option>
+      <option value="married">Married</option>
+      <option value="divorced">Divorced</option>
+      <option value="other">Other</option>
+    </select>
+
+    <label for="nationality">Nationality*</label>
+    <select id="nationality" name="nationality">
+      <option value="select">Select</option>
+      <!-- Add more nationality options as needed -->
+    </select>
+
+    <label for="aadharCard">Aadhar Card No*</label>
+    <input type="text" id="aadharCard" name="aadharCard" placeholder="Aadhar Card No">
+
+    <label for="panCard">PAN Card No*</label>
+    <input type="text" id="panCard" name="panCard" placeholder="PAN Card No">
+
+    <label for="motherTongue">Mother Tongue*</label>
+    <select id="motherTongue" name="motherTongue">
+      <option value="select">Select</option>
+      <!-- Add more mother tongue options as needed -->
+    </select>
+
+    <label for="placeOfBirth">Place of Birth*</label>
+    <input type="text" id="placeOfBirth" name="placeOfBirth" placeholder="Place of Birth">
+
+    <!-- Physical Details -->
+    <label for="physicalFitness">Physical Fitness*</label>
+    <select id="physicalFitness" name="physicalFitness">
+      <option value="fit">Fit</option>
+      <option value="unfit">Unfit</option>
+    </select>
+
+    <label for="height">Height (Cms)</label>
+    <input type="text" id="height" name="height" placeholder="Height">
+
+    <label for="weight">Weight (Kgs)</label>
+    <input type="text" id="weight" name="weight" placeholder="Weight">
+
+    <!-- Other Details -->
+    <label for="expenses">I Intend to meet the Expenses of the course through*</label>
+    <select id="expenses" name="expenses">
+      <option value="sponsorship">Sponsorship</option>
+      <option value="selfFunding">Self Funding</option>
+      <option value="scholarship">Scholarship</option>
+    </select>
+
+    <label for="hearingAbout">Where did you hear about The Great Eastern Institute of Maritime Studies*</label>
+    <select id="hearingAbout" name="hearingAbout">
+      <option value="internet">Internet</option>
+      <option value="friend">Friend</option>
+      <option value="advertisement">Advertisement</option>
+      <option value="other">Other</option>
+    </select>
+
+    <!-- Reference Information -->
+    <label>Reference</label>
+    <div>
+      <label for="referenceName">Name Of Person</label>
+      <input type="text" id="referenceName" name="referenceName" placeholder="Name Of Person">
+
+      <label for="designation">Designation</label>
+      <input type="text" id="designation" name="designation" placeholder="Designation">
+
+      <label for="companyName">Company Name</label>
+      <input type="text" id="companyName" name="companyName" placeholder="Company Name">
+    </div>
+
+    <!-- Online Payment Details -->
+    <label for="onlinePayment">Online payment*</label>
+    <select id="onlinePayment" name="onlinePayment">
+      <option value="paymentMade">Payment made</option>
+      <option value="paymentPending">Payment pending</option>
+    </select>
+
+    <label for="amount">Amount*</label>
+    <input type="text" id="amount" name="amount" placeholder="Amount">
+
+    <!-- Submit Button -->
+    <button type="submit">Submit</button>
+  </form>
+
+</body>
+</html>
